@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chaitanyareddy0702
-- 👀 I’m interested in Aritificial intelligence and Cyber Security
-- 🌱 I’m currently learning Aritificial Intelligence
-- 💞️ I’m looking to collaborate on Cyber Security
+- 👀 I’m interested in Artificial intelligence
+- 🌱 I’m currently learning Artificial Intelligence
 - 📫 Reach me at chaitanyareddy0702@gmail.com
 
 <!---
