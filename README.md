@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chaitanyareddy0702
-- Software Engineer at Guidewire Software
+- Software Engineer II at Guidewire Software
 - 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning Artificial Intelligence
 - 📫 Reach me at chaitanyareddy0702@gmail.com
 
 <!---
